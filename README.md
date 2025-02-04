@@ -1,34 +1,59 @@
-Hi, I'm Suyash Salvi, I am currently pursuing Master of Science in Computer Science and Engineering from Santa Clara University at Caifornia.
+<h1 align="center">👋 Hey there, I'm Suyash Salvi! </h1>
 
-- Here's my [LinkedIn handle](https://www.linkedin.com/in/suyash-salvi/)   
-- With 3+ years of experience, I specialize in three core domains: Machine Learning, Web Development, and Data Engineering. 
-- I bring a versatile skill set and a passion for innovation to every endeavor, driving impactful solutions and fostering business growth.
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/fdefd7ca-e8ac-4acf-a800-4a6ebeefd610)
-- Published an IEEE paper in 2020 5th International Conference on Communication and Electronics Systems. ['Machine learning-based: Selection of optimal cricket team based on the players’ performance'](https://ieeexplore.ieee.org/document/9137891)
-- Completed by undergrad in Computer Engineering from University of Mumbai, Fr Conceicao Rodrigues College of Engineering.  
+<p align="center">
+🚀 Master’s in Computer Science & Engineering @ <b>Santa Clara University, California</b>  
+💡 Passionate about <b>Machine Learning, Web Development, and Data Engineering</b>  
+🎯 Crafting innovative solutions that drive business growth and impact  
+🌎 Open to collaborations and exciting new opportunities  
+</p>
 
-SKILLS. 
+---
 
-PROGRAMMING
+### 🚀 About Me  
+- 🎓 **Master’s in Computer Science & Engineering** – Santa Clara University, California  
+- 🎓 **B.E. in Computer Engineering** – Fr. Conceicao Rodrigues College of Engineering, University of Mumbai  
+- 📜 **Published IEEE Paper (2020)**: _"Machine Learning-Based Selection of Optimal Cricket Team Based on Players’ Performance"_
+- 🏆 **Microsoft Certified**: Azure Fundamentals  
+- 💡 3+ Years of Experience in **Machine Learning, Web Development, and Data Engineering**  
 
-- C++
-- Java
-- JavaScript
-- Python
-- Go
+---
 
-DATABASE
+### 💻 Tech Stack & Expertise  
+#### 🔹 Programming:
+`C++` `Java` `JavaScript` `Python` `Go`  
 
-- MongoDB
-- PostgreSQL
-- MySQL
+#### 🗄️ Databases:
+`MongoDB` `PostgreSQL` `MySQL`  
 
-WEB DEVELOPMENT
+#### 🌐 Web Development:
+`Node.js` `Express.js` `Spring Boot` `Django` `Flask` `React.js` `Angular.js`  
 
-- NodeJS
-- ExpressJS
-- Spring Boot
-- Django
-- Flask
-- React
-- AngularJS
+---
+
+### 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashSalvi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashSalvi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashSalvi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Latest Projects  
+🚀 [Project 1](#) - _Brief description_  
+🔹 [Project 2](#) - _Brief description_  
+🔥 [Project 3](#) - _Brief description_  
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SuyashSalvi)  
+
+💌 **Let's collaborate & build something awesome!**
