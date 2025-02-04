@@ -145,12 +145,12 @@ An **AI-powered learning tool** designed to help users master complex topics wit
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/suyash-salvi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SuyashSalvi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="mailto:ssalvi2898@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
